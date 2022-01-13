@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://carbonnetworksolutions.com"
 title = "OMEGA"
-theme = "omega"
+#theme = "omega"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
