@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
+  title : "Carbon Network Solutions"
+  content : "Network design and training"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
@@ -10,13 +10,13 @@ banner:
     link : "#products"
 
 #################### Mission #####################
-mission:
+design:
   enable : true
-  title : "Propel Advancement"
-  section : "MISSION"
-  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
-  video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  title : "Networks Designed for your Needs"
+  section : "DESIGN"
+  content : "Carbon Network Solutions focusses on Designing Secure Scaleable networks tailor fit to you needs"
+  image: "images/video-thumb.jpg"
+  
 
 
 #################### Vission #####################
@@ -66,7 +66,7 @@ contact:
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
-  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
+  content : "With such a wide range of WISP consulting firms, we are here and ready to help! Contact us today via phone, text, email or facebook messenger to see what Carbon Network Solutions can do for you!"
 
   
 ################### call to action #################

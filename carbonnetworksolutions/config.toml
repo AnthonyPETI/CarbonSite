@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "OMEGA"
+baseURL = "https://carbonnetworksolutions.com"
+title = "Carbon Network Solutions"
 theme = "omega"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
@@ -45,15 +45,15 @@ weight = 5
 logo = "images/logo.png"
 logo_width = "120px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Network Engineering and training for the ISP space"
+author = "Anthony Polsinelli"
 # contact info
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "PO Box XXXX <br>Lehighton, <br>PA 18235"
 # Preloader
 preloader = true
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
 map_center_lat = "25.773606"
 map_center_lng = "-80.732655"
