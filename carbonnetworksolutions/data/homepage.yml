@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Carbon Network Solutions"
   content : "Network design and training"
-  image : "images/hero-image/hero-slider-01.jpg"
+  image : "images/logo.png"
   button:
     enable : true
     label : "WHAT WE DO"
@@ -41,8 +41,8 @@ vision:
 product:
   enable : true
   section : "Products"
-  title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  title : "Services we can provide"
+  content : "See how we can help improve your WISP ecosystem through our variety of service offerings"
   product_item:
   - title : "Ecosystem"
     image : "images/product/product-03.jpg"
@@ -66,7 +66,7 @@ contact:
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
-  content : "With such a wide range of WISP consulting firms, we are here and ready to help! Contact us today via phone, text, email or facebook messenger to see what Carbon Network Solutions can do for you!"
+  content : "With such a wide range of WISP consulting firms, we are happy to talk through what Carbon Network Solutions can do for you. We are here and ready to help! Contact us today via phone, text, email or facebook messenger to see what Carbon Network Solutions can do for you!"
 
   
 ################### call to action #################
