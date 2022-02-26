@@ -26,15 +26,15 @@ vision:
   vision_item:
   - title : "People First"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "This is a test - 1"
     
   - title : "Employee Culture"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "This is a test - 2"
     
   - title : "The Omega Way"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "This is a test - 3"
 
 
 #################### product ####################
