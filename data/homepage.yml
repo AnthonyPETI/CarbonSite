@@ -50,34 +50,37 @@ product:
 •	Familiarity with networking hardware and software from the likes of:
 •	Mikrotik, Ubiquiti, Cisco, VyOS, DanOS, IPinfusions OC-NOS, raw FRR, and generic network CLI
 •	Familiar with BGP, OSPF,  IS-IS, MPLS, VPLS, VX-LAN EVPN, and many other protocols as required.
-•	Knowledge of LTE/CBRS
-"
+•	Knowledge of LTE/CBRS"
     project_url : "#"
     
   - title : "Network Design and Architecture planning"
     image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "•	Completely convert and redesign live networks 
+•	Most work can be done remotely
+•	On-Site work available as needed/requested. 
+"
     project_url : "#"
     
   - title : "Network auditing, discovery, documentation, and Adjacent works"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "•	Thoroughly dig through all network hardware and software to find security holes, undocumented/unaccounted equipment, Full documentation how you would prefer: excel document, Google Sheet, Specialized IPAM software (your CRM, Netbox, Nautobot, PHPIPAM, etc.)
+•	Adjacent works including ARIN registration/requests, FCC 477 filings, and preparations for frequency coordination
+•	Frequency overlap and band planning
+•	SAS Configuration and registration
+"
     project_url : "#"
     
   - title : "Cloud, Virtualization, and monitoring and Integrations"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "•	Building out your virtual environment and cost analysis of onsite vs. cloud virtualization
+•	Familiar with proxmox, ESXI, Hyper-V, and XCP-NG
+•	Benefits and drawbacks to moving your network to a virtual Core or other virtualized network functions
+•	Build up a network monitoring solution tailored to your needs
+o	 include Zabbix, librenms, OpenNMS, and Netxms
+•	Integrations between systems – Such as preseem, Towercoverage, EPCs, DHCP/DNS Servers, Monitoring with various gateways, VoIP systems, etc 
+"
     project_url : "#"
   
-  - title : "•	IPv6 Deployment"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
-    project_url : "#"
-
-  - title : "•	IPv6 Deployment"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
-    project_url : "#"
 
 
 
