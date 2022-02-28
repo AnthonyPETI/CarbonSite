@@ -1,0 +1,102 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "Carbon Network Solutions"
+  content : "Network design and training"
+  image : "images/logo.png"
+  button:
+    enable : true
+    label : "WHAT WE DO"
+    link : "#products"
+
+#################### Mission #####################
+design:
+  enable : true
+  title : "Networks Designed for your Needs"
+  section : "DESIGN"
+  content : "Carbon Network Solutions focusses on Designing Secure Scaleable networks tailor fit to you needs"
+  image: "images/video-thumb.jpg"
+  
+
+
+#################### Vission #####################
+vision:
+  enable : false
+  section : "VISION"
+  vision_item:
+  - title : "People First"
+    image : "images/vision/vision-01.jpg"
+    content : "This is a test - 1"
+    
+  - title : "Employee Culture"
+    image : "images/vision/vision-02.jpg"
+    content : "This is a test - 2"
+    
+  - title : "The Omega Way"
+    image : "images/vision/vision-03.jpg"
+    content : "This is a test - 3"
+
+
+#################### product ####################
+product:
+  enable : true
+  section : "Products"
+  title : "Services we can provide"
+  content : "See how we can help improve your WISP ecosystem through our variety of service offerings"
+  product_item:
+  - title : "Network Engineering "
+    image : "images/product/product-03.jpg"
+    content : "•	Network configuration, Upgrades, modification, and troubleshooting
+•	Familiarity with networking hardware and software from the likes of:
+•	Mikrotik, Ubiquiti, Cisco, VyOS, DanOS, IPinfusions OC-NOS, raw FRR, and generic network CLI
+•	Familiar with BGP, OSPF,  IS-IS, MPLS, VPLS, VX-LAN EVPN, and many other protocols as required.
+•	Knowledge of LTE/CBRS"
+    project_url : "#"
+    
+  - title : "Network Design and Architecture planning"
+    image : "images/product/product-02.jpg"
+    content : "•	Completely convert and redesign live networks 
+•	Most work can be done remotely
+•	On-Site work available as needed/requested. 
+"
+    project_url : "#"
+    
+  - title : "Network auditing, discovery, documentation, and Adjacent works"
+    image : "images/product/product-03.jpg"
+    content : "•	Thoroughly dig through all network hardware and software to find security holes, undocumented/unaccounted equipment, Full documentation how you would prefer: excel document, Google Sheet, Specialized IPAM software (your CRM, Netbox, Nautobot, PHPIPAM, etc.)
+•	Adjacent works including ARIN registration/requests, FCC 477 filings, and preparations for frequency coordination
+•	Frequency overlap and band planning
+•	SAS Configuration and registration
+"
+    project_url : "#"
+    
+  - title : "Cloud, Virtualization, and monitoring and Integrations"
+    image : "images/product/product-03.jpg"
+    content : "•	Building out your virtual environment and cost analysis of onsite vs. cloud virtualization
+•	Familiar with proxmox, ESXI, Hyper-V, and XCP-NG
+•	Benefits and drawbacks to moving your network to a virtual Core or other virtualized network functions
+•	Build up a network monitoring solution tailored to your needs
+o	 include Zabbix, librenms, OpenNMS, and Netxms
+•	Integrations between systems – Such as preseem, Towercoverage, EPCs, DHCP/DNS Servers, Monitoring with various gateways, VoIP systems, etc 
+"
+    project_url : "#"
+  
+
+
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACT US"
+  title : "reach us"
+  image : "images/map-bg.jpg"
+  content : "With such a wide range of WISP consulting firms, we are happy to talk through what Carbon Network Solutions can do for you. We are here and ready to help! Contact us today via phone, text, email or facebook messenger to see what Carbon Network Solutions can do for you!"
+
+  
+################### call to action #################
+call_to_action:
+  enable : false
+  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+  button_label : "Apply Now"
+  button_link : "career"

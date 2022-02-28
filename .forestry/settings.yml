@@ -7,29 +7,29 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: carbonnetworksolutions/data/homepage.yml
+  path: exampleSite/data/homepage.yml
   label: Homepage
 - type: heading
   label: Career
 - type: document
-  path: carbonnetworksolutions/content/career.md
+  path: exampleSite/content/career.md
   label: Career
 - type: heading
   label: All Pages
 - type: directory
-  path: carbonnetworksolutions/content/
+  path: exampleSite/content/
   label: Created Pages
   create: all
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: carbonnetworksolutions
+  path: exampleSite
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: carbonnetworksolutions/static/images
+upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
