@@ -61,23 +61,23 @@ product:
 "
     project_url : "#"
     
-  - title : "Network auditing, discovery, documentation, and Adjacent works"
+  - title : "Network Auditing, Discovery, Documentation, and Adjacent Works"
     image : "images/product/product-03.jpg"
-    content : "•	Thoroughly dig through all network hardware and software to find security holes, undocumented/unaccounted equipment, Full documentation how you would prefer: excel document, Google Sheet, Specialized IPAM software (your CRM, Netbox, Nautobot, PHPIPAM, etc.)
+    content : "•	Thoroughly dig through all network hardware and software to find security holes, undocumented/unaccounted equipment, Full documentation delivered in YOUR prefered format (including Excel, Google Sheets, Specialized IPAM software (your CRM, Netbox, Nautobot, PHPIPAM, etc.))
 •	Adjacent works including ARIN registration/requests, FCC 477 filings, and preparations for frequency coordination
 •	Frequency overlap and band planning
 •	SAS Configuration and registration
 "
     project_url : "#"
     
-  - title : "Cloud, Virtualization, and monitoring and Integrations"
+  - title : "Cloud, Virtualization, Monitoring, and Integrations"
     image : "images/product/product-03.jpg"
     content : "•	Building out your virtual environment and cost analysis of onsite vs. cloud virtualization
 •	Familiar with proxmox, ESXI, Hyper-V, and XCP-NG
 •	Benefits and drawbacks to moving your network to a virtual Core or other virtualized network functions
 •	Build up a network monitoring solution tailored to your needs
-o	 include Zabbix, librenms, OpenNMS, and Netxms
-•	Integrations between systems – Such as preseem, Towercoverage, EPCs, DHCP/DNS Servers, Monitoring with various gateways, VoIP systems, etc 
+o	 including Zabbix, librenms, OpenNMS, and Netxms
+•	Integrations between systems – Such as Preseem, Towercoverage, EPCs, DHCP/DNS Servers, Monitoring with various gateways, VoIP systems, etc 
 "
     project_url : "#"
   
@@ -91,7 +91,7 @@ contact:
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
-  content : "With such a wide range of WISP consulting firms, we are happy to talk through what Carbon Network Solutions can do for you. We are here and ready to help! Contact us today via phone, text, email or facebook messenger to see what Carbon Network Solutions can do for you!"
+  content : "With such a wide range of WISP consulting firms, we are happy to talk through why Carbon Network Solutions is the best fit for you. We are here and ready to help! Contact us today via phone, text, email or facebook messenger to see what Carbon Network Solutions can do for you!"
 
   
 ################### call to action #################
