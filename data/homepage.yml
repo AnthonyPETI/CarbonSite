@@ -6,7 +6,7 @@ banner:
   image: images/logo.png
   button:
     enable: true
-    label: How We Help
+    label: What We Do
     link: "#products"
 design:
   enable: true
