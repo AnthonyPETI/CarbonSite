@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Career
 - type: document
-  path: econtent/career.md
+  path: content/career.md
   label: Career
 - type: heading
   label: All Pages
