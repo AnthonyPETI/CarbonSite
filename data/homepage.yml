@@ -60,7 +60,7 @@ product:
 •	On-Site work available as needed/requested. 
 "
     project_url : "#"
-    
+  product_item:  
   - title : "Network Auditing, Discovery, Documentation, and Adjacent Works"
     image : "images/product/product-03.jpg"
     content : "•	Thoroughly dig through all network hardware and software to find security holes, undocumented/unaccounted equipment, Full documentation delivered in YOUR prefered format (including Excel, Google Sheets, Specialized IPAM software (your CRM, Netbox, Nautobot, PHPIPAM, etc.))
